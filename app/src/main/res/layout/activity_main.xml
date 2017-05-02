@@ -32,5 +32,19 @@
         android:textSize="24sp"
         android:text="Unknown"
         />
+    <TextView
+        android:id="@+id/txt_alt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Unknown"
+        />
+    <TextView
+        android:id="@+id/txt_oth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Unknown"
+        />
 
 </LinearLayout>
